@@ -16,3 +16,8 @@ It's so simple. Start:
 <code>python matrix.py</code>
 
 ... and never stop it =)
+
+Documentation
+=====
+All documentation and source code here:
+https://github.com/matrix-org/matrix-python-sdk
